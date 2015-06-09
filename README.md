@@ -1,5 +1,7 @@
 # Belajar Rails
 
+[![Join the chat at https://gitter.im/rezajatnika/belajar_rails](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rezajatnika/belajar_rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
   International License. To view a copy of this license, vist
   http://creativecommons.org/licenses/by-sa/4.0/
